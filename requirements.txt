@@ -1,0 +1,36 @@
+# Core dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+aiofiles==23.2.1
+httpx==0.25.1
+python-multipart==0.0.6
+
+# Utilities
+psutil==5.9.6
+qrcode[pil]==7.4.2
+pillow==10.1.0
+python-dotenv==1.0.0
+
+# Termux repository
+termux-apt-repo==0.4
+
+# Database (optional)
+# sqlalchemy==2.0.23
+# asyncpg==0.29.0
+
+# Redis (optional)
+# redis==5.0.1
+
+# Development
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+black==23.11.0
+flake8==6.1.0
+isort==5.12.0
+mypy==1.7.1
+
+# Documentation
+mkdocs==1.5.3
+mkdocs-material==9.4.10
+mkdocs-mermaid2-plugin==1.1.1
