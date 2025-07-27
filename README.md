@@ -252,13 +252,15 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 - **Issues**: [GitHub Issues](https://github.com/EDU-AIgent/Flama/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/EDU-AIgent/Flama/discussions)
-- **Email**: flama@edu-aigent.com
+- **Author**: Eduard Terre, Offenburg Germany
+- **Email**: terre.eduard@hotmail.com
 
 ---
 
 <div align="center">
 
-**Made with 🔥 by EDU-AIgent**
+**Made with 🔥 by Eduard Terre**  
+*Offenburg, Germany*
 
 *Democratizing AI, one device at a time*
 
