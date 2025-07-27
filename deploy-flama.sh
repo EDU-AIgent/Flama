@@ -132,7 +132,7 @@ echo "  - Install Termux from F-Droid"
 echo "  - Scan QR code or run:"
 echo "    curl -sSL http://$SERVER_IP:8000/magic-setup | bash"
 echo ""
-echo "Made with 🔥 by EDU-AIgent"
+echo "Made with 🔥 by Eduard Terre, Offenburg Germany"
 EOF
 
 chmod +x scripts/setup-complete.sh
