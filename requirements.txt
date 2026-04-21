@@ -9,7 +9,7 @@ python-multipart==0.0.6
 psutil==5.9.6
 qrcode[pil]==7.4.2
 pillow==10.1.0
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 
 # Termux repository
 termux-apt-repo==0.4
